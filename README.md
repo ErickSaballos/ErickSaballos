@@ -69,7 +69,7 @@
 
 <div align="center" style="display: flex;">
   <a href="https://open.spotify.com/user/ericksalvadorperezalv">
-    <img style="width: 63px; height: 58px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" alt="Spotify recently played"  />
+    <img style="width: 63px; height: 62px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" alt="Spotify recently played"  />
   </a>
   <p>Music Taste<p>
 </div>
