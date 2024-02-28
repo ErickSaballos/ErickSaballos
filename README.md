@@ -69,7 +69,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/ericksalvadorperezalv">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=lilsrick&count=5" alt="Spotify recently played"  />
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ASpotify_logo_without_text.svg&psig=AOvVaw3v0RgI3KbOIHIwDS48sOyi&ust=1709183079672000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOismaehzYQDFQAAAAAdAAAAABAE" alt="Spotify recently played"  />
   </a>
 </div>
 
