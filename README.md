@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://th.bing.com/th/id/R.2bd312e890e8d586ee36c7bddd11ed5b?rik=7HsKDhF51uJdOw&riu=http%3a%2f%2fblog.facialix.com%2fwp-content%2fuploads%2f2019%2f08%2fciclos-python.jpg&ehk=MdCOJiPzZDJeJTpfx1bP8AeLvk9jQC1dc02fMjFwbEY%3d&risl=&pid=ImgRaw&r=0"  />
+  <img height="150" src="https://i.ibb.co/THK5kLC/Image.jpg"  />
 </div>
 
 ###
@@ -17,6 +17,12 @@
   <a href="https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSKjswmDvqWWQGQmWjJWMVlhJkLVsTgXtDkvKvSFgDwhXrCWJhLhTgLbqsjNTTBxRlZKjtTp" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ErickSaballos.ErickSaballos&"  />
 </div>
 
 ###
@@ -78,5 +84,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/ErickSaballos/ErickSaballos/output/snake.svg" alt="Snake animation" />
 
 ###
